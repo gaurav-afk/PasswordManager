@@ -16,12 +16,10 @@ https://github.com/user-attachments/assets/cf16a801-97a1-445b-9858-19aa24109aa5
 - **Add / Edit / Delete Accounts**  
 - **View Password with Toggle Visibility (Show/Hide)**  
 - **Modern UI using Jetpack Compose**  
-- **Search Accounts Instantly**  
-- **MVVM + Clean Architecture** for maintainability  
+- **MVVM Architecture** 
 - **Fully Offline App** – no data leaves the device  
-- **Field Validations & Error States**  
-- **Beautiful Card-based Dashboard**  
-
+- **Field Validations & Error States**
+  
 ## Requirements
 - Android SDK 30+  
 - No internet required  
@@ -35,16 +33,8 @@ https://github.com/user-attachments/assets/cf16a801-97a1-445b-9858-19aa24109aa5
 - **ViewModel**  
 
 ## Architecture
-The app follows **Clean Architecture + MVVM**:
+The app follows **MVVM Architecture**:
 
-## Compose APIs Used
-- `LaunchedEffect`  
-- `remember` & `mutableStateOf`  
-- `Scaffold`, `Card`, `OutlinedTextField`, `LazyColumn`  
-- `Dialog` for account delete confirmation  
-- `rememberSaveable`  
-- `AnimatedVisibility`  
-- Material3 components
 
 ## Getting Started
 
