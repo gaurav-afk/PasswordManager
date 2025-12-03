@@ -39,21 +39,6 @@ https://github.com/user-attachments/assets/cf16a801-97a1-445b-9858-19aa24109aa5
 ## Architecture
 The app follows **Clean Architecture + MVVM**:
 
-app/
-├── data/
-│ ├── dao/
-│ ├── database/
-│ └── repository/
-├── domain/
-│ ├── model/
-│ ├── repository/
-│ └── usecase/
-└── ui/
-├── screens/
-├── components/
-├── viewmodel/
-└── theme/
-
 markdown
 Copy code
 
