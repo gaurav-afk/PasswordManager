@@ -13,7 +13,8 @@ https://github.com/user-attachments/assets/cf16a801-97a1-445b-9858-19aa24109aa5
 
 ## Features
 - **Secure Local Storage** using RoomDB  
-- **Add / Edit / Delete Accounts**  
+- **Add / Edit / Delete Accounts**
+- **Sensitive fields** (passwords) are AES-256 encrypted before saving.
 - **View Password with Toggle Visibility (Show/Hide)**  
 - **Modern UI using Jetpack Compose**  
 - **MVVM Architecture** 
