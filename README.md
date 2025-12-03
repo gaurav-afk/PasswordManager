@@ -56,15 +56,12 @@ git clone https://github.com/gaurav-afk/PasswordSaver.git
 cd PasswordSaver
 Build & Run
 Open the project in Android Studio Arctic Fox or newer
-
 Sync Gradle
-
 Run on emulator or device
-
-Screenshots
-(Add your screenshots here)
+```
 
 Future Enhancements
+
 Encrypted Room Database
 
 Biometric Authentication (Fingerprint/FaceID)
