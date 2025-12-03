@@ -22,7 +22,7 @@ https://github.com/user-attachments/assets/cf16a801-97a1-445b-9858-19aa24109aa5
 - **Field Validations & Error States**
   
 ## Requirements
-- Android SDK 30+  
+- Android SDK 24+  
 - No internet required  
 - Works on both emulator and real device
 
