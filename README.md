@@ -30,7 +30,6 @@ https://github.com/user-attachments/assets/cf16a801-97a1-445b-9858-19aa24109aa5
 - **Jetpack Compose**  
 - **RoomDB**  
 - **Coroutines + Flow**  
-- **Hilt** (Dependency Injection)  
 - **ViewModel**  
 
 ## Architecture
