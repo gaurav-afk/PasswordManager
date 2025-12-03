@@ -39,9 +39,6 @@ https://github.com/user-attachments/assets/cf16a801-97a1-445b-9858-19aa24109aa5
 ## Architecture
 The app follows **Clean Architecture + MVVM**:
 
-markdown
-Copy code
-
 ## Compose APIs Used
 - `LaunchedEffect`  
 - `remember` & `mutableStateOf`  
@@ -81,16 +78,3 @@ Cloud Sync (Optional)
 License
 This project is licensed under the MIT License.
 
-yaml
-Copy code
-
----
-
-If you want:
-
-✅ A **banner image**  
-✅ A **screenshots grid**  
-✅ A **better Features section**  
-✅ A **security section (AES encryption, etc.)**
-
-Just tell me — I’ll add it!
