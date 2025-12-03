@@ -32,9 +32,7 @@ https://github.com/user-attachments/assets/cf16a801-97a1-445b-9858-19aa24109aa5
 - **RoomDB**  
 - **Coroutines + Flow**  
 - **Hilt** (Dependency Injection)  
-- **Material3**  
 - **ViewModel**  
-- **Coil** (if icons/images are used)
 
 ## Architecture
 The app follows **Clean Architecture + MVVM**:
