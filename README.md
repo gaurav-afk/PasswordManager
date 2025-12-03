@@ -41,8 +41,8 @@ The app follows **MVVM Architecture**
 
 ### Clone the repository
 ```bash
-git clone https://github.com/gaurav-afk/PasswordSaver.git
-cd PasswordSaver
+https://github.com/gaurav-afk/PasswordManager.git
+cd PasswordManager
 ```
 
 ## Future Enhancements
