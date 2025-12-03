@@ -45,10 +45,11 @@ git clone https://github.com/gaurav-afk/PasswordSaver.git
 cd PasswordSaver
 ```
 
-Future Enhancements
+## Future Enhancements
 
-Biometric Authentication (Fingerprint/FaceID)
+- **Biometric Authentication (Fingerprint/FaceID)**
 
-License
+## License
+
 This project is licensed under the MIT License.
 
