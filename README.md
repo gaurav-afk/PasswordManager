@@ -47,7 +47,7 @@ cd PasswordSaver
 
 ## Future Enhancements
 
-- **Biometric Authentication (Fingerprint/FaceID)**
+**Biometric Authentication (Fingerprint/FaceID)**
 
 ## License
 
