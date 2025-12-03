@@ -47,15 +47,7 @@ cd PasswordSaver
 
 Future Enhancements
 
-Encrypted Room Database
-
 Biometric Authentication (Fingerprint/FaceID)
-
-Backup & Restore (Encrypted file)
-
-Generate Strong Passwords
-
-Cloud Sync (Optional)
 
 License
 This project is licensed under the MIT License.
