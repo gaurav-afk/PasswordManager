@@ -34,7 +34,7 @@ https://github.com/user-attachments/assets/cf16a801-97a1-445b-9858-19aa24109aa5
 - **ViewModel**  
 
 ## Architecture
-The app follows **MVVM Architecture**:
+The app follows **MVVM Architecture**
 
 
 ## Getting Started
@@ -43,10 +43,6 @@ The app follows **MVVM Architecture**:
 ```bash
 git clone https://github.com/gaurav-afk/PasswordSaver.git
 cd PasswordSaver
-Build & Run
-Open the project in Android Studio Arctic Fox or newer
-Sync Gradle
-Run on emulator or device
 ```
 
 Future Enhancements
