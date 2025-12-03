@@ -1,10 +1,10 @@
 # 🔐 PasswordManager
 
 ## Overview
-Password Saver is a secure and modern Android application built using **Jetpack Compose**, **MVVM + Clean Architecture**, and **Room Database**.  
+Password Saver is a secure and modern Android application built using **Jetpack Compose**, **MVVM Architecture**, and **Room Database**.  
 It allows users to safely store, view, update, and delete their account passwords in a clean and intuitive UI.
 
-The app focuses heavily on **local security**, **smooth animations**, and **modern Android development practices**.
+The app focuses heavily on **local security** and **modern Android development practices**.
 
 ## Demo
 https://github.com/user-attachments/assets/cf16a801-97a1-445b-9858-19aa24109aa5
