@@ -1,4 +1,4 @@
-package com.towerofapp.passwordsaver.model
+package com.towerofapp.passwordsaver.data.model
 
 import androidx.room.Entity
 import androidx.room.PrimaryKey

@@ -3,7 +3,7 @@ package com.towerofapp.passwordsaver.viewmodel
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.towerofapp.passwordsaver.data.AccountRepository
-import com.towerofapp.passwordsaver.model.AccountEntity
+import com.towerofapp.passwordsaver.data.model.AccountEntity
 import com.towerofapp.passwordsaver.util.CryptoManager
 import kotlinx.coroutines.launch
 

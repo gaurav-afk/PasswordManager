@@ -11,7 +11,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
-import com.towerofapp.passwordsaver.model.AccountEntity
+import com.towerofapp.passwordsaver.data.model.AccountEntity
 import com.towerofapp.passwordsaver.ui.components.AccountItem
 import com.towerofapp.passwordsaver.viewmodel.AddAccountViewModel
 import com.towerofapp.passwordsaver.viewmodel.HomeViewModel

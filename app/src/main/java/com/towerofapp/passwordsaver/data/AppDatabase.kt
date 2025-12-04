@@ -2,7 +2,7 @@ package com.towerofapp.passwordsaver.data
 
 import androidx.room.Database
 import androidx.room.RoomDatabase
-import com.towerofapp.passwordsaver.model.AccountEntity
+import com.towerofapp.passwordsaver.data.model.AccountEntity
 
 
 @Database(entities = [AccountEntity::class], version = 1)

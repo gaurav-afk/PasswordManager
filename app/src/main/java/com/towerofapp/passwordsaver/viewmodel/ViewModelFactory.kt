@@ -3,8 +3,6 @@ package com.towerofapp.passwordsaver.viewmodel
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
 import com.towerofapp.passwordsaver.data.AccountRepository
-import com.towerofapp.passwordsaver.viewmodel.HomeViewModel
-import com.towerofapp.passwordsaver.viewmodel.AddAccountViewModel
 
 class ViewModelFactory(private val repo: AccountRepository) : ViewModelProvider.Factory {
     override fun <T : ViewModel> create(modelClass: Class<T>): T {

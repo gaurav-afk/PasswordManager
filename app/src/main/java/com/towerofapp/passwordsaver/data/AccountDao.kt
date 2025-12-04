@@ -1,7 +1,7 @@
 package com.towerofapp.passwordsaver.data
 
 import androidx.room.*
-import com.towerofapp.passwordsaver.model.AccountEntity
+import com.towerofapp.passwordsaver.data.model.AccountEntity
 import kotlinx.coroutines.flow.Flow
 
 @Dao
